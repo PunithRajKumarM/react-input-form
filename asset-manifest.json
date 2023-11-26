@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-input-form/static/css/main.01de8f1b.css",
-    "main.js": "/react-input-form/static/js/main.17a59721.js",
+    "main.js": "/react-input-form/static/js/main.3169083f.js",
     "static/media/logo.jpg": "/react-input-form/static/media/logo.9d88685c660ed659cac5.jpg",
     "index.html": "/react-input-form/index.html",
     "main.01de8f1b.css.map": "/react-input-form/static/css/main.01de8f1b.css.map",
-    "main.17a59721.js.map": "/react-input-form/static/js/main.17a59721.js.map"
+    "main.3169083f.js.map": "/react-input-form/static/js/main.3169083f.js.map"
   },
   "entrypoints": [
     "static/css/main.01de8f1b.css",
-    "static/js/main.17a59721.js"
+    "static/js/main.3169083f.js"
   ]
 }
