@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+![Screenshot (32)](https://github.com/PunithRajKumarM/react-input-form/assets/146944110/a96c3821-c5b3-44b9-9375-12c6c4af723d)
+![Screenshot (33)](https://github.com/PunithRajKumarM/react-input-form/assets/146944110/f7cd2782-6d13-49f4-bdee-a0796c45bced)
+![Screenshot (34)](https://github.com/PunithRajKumarM/react-input-form/assets/146944110/77b4b4a9-375d-44ac-b35e-b43ef9829dae)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
